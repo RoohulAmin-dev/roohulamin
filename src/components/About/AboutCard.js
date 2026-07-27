@@ -8,27 +8,27 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Soumyajit Behera</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
+            Hi everyone! I’m <span className="purple">Roohul Amin, </span>{" "}
+            learning and buiding <span className="purple">Machine Learning and Agentic AI projects</span>.
             <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            I’m currently studying @ Northern University in {" "}
+            <span className="purple"> Computer Science Department</span> in{" "}
+            <span className="purple"> Nowshera, Khyber Pakhtunkhwa, Pakistan</span>.
+            <br />I completed my High school degree in {" "}
+            <span className="purple"> Nowshera </span> from{" "}
+            <span className="purple"> HCI Canadian based college and school</span>.
             <br />
             <br />
-            Outside of coding, I love engaging in activities that keep me
+            Besides learning and building real-life useful projects, I also love to explore technology, lead my classmates for innovation, travel and explore new places. I am a very
             creative and inspired:
           </p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games 🎮
+              <ImPointRight /> Exploring new technologies and building real-life useful projects 💻
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
+              <ImPointRight /> Leading Classmates for Innovation 🎯
             </li>
             <li className="about-activity">
               <ImPointRight /> Traveling and Exploring New Places 🌍
@@ -36,9 +36,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Creativity is the name of deep thinking and consistent action"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Roohul Amin</footer>
         </blockquote>
       </Card.Body>
     </Card>

@@ -12,7 +12,6 @@ import bitsOfCode from "../../Assets/Projects/blog.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
-      <Particle />
       <Container>
         <h1 className="project-heading">
           My Recent <strong className="purple">Works </strong>
@@ -25,10 +24,12 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="Python Journey"
+              description="I was learning Python to build a strong foundation in Artificial Intelligence, Machine Learning, Deep Learning, Agentic AI and Generative AI.
+              I realized that learning every topic of Python is not necessary, so I focused on the most relevant areas.
+              In this jouney I start from basic Python and then move to advance topics of Python."
+              ghLink="https://github.com/RoohulAmin-dev/AI_Learning_Journey"
+    
             />
           </Col>
 
@@ -36,10 +37,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="My First Website"
+              description="My first create website project using simple HTML, CSS and JavaScript. This is was my first project where I learned how to create a website and host it on the internet. This project was a great learning experience for me and I learned a lot about web development."
+              ghLink="https://github.com/RoohulAmin-dev/RoohulAmin-dev.github.io"
+              demoLink="https://roohulamin-dev.github.io/"
             />
           </Col>
 
@@ -47,21 +48,11 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={leaf}
-              isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Hotel Management System"
+              description="Hotel Management System project using Java.
+              This is a console based project which manages the hotel rooms, customers and bookings. This project was a great learning experience for me and I learned a lot about Java programming."
+              ghLink="https://github.com/RoohulAmin-dev/Java-Hotel-CLI"
+                           
             />
           </Col>
 
@@ -69,10 +60,12 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="Medical Store Management System"
+              description="Medical Store Management System project using Java.
+              This is a console based project which manages the medical store inventory, customers and sales. This project was a great learning experience for me and I learned a lot about Java programming.
+              This project can control the inventory and sales of a medical store. This was first project I worked on as a team."
+              ghLink="https://github.com/RoohulAmin-dev/medicine-Management-System"
+            
             />
           </Col>
 
@@ -80,11 +73,10 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Software Testing and Quality Assurance"
+              description = "This was our end of semester project where we learned about software testing methodologies and quality assurance practices. During this project I learnt how lead my team and learn new things. I also learned how to create a presentation and present it in front of the class. This project was a great learning experience for me and I learned a lot about software testing and quality assurance. I was very glad when our team was able to achieve the first position in the class."
+              ghLink="https://github.com/RooohulAmin-dev/Software_Testing_and_Quality_Assurance_Presentation"
+              demoLink="https://roohulamin-dev.github.io/Software_Testing_and_Quality_Assurance_Presentation/"       
             />
           </Col>
         </Row>
