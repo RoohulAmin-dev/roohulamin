@@ -75,7 +75,7 @@ function Projects() {
               isBlog={false}
               title="Software Testing and Quality Assurance"
               description = "This was our end of semester project where we learned about software testing methodologies and quality assurance practices. During this project I learnt how lead my team and learn new things. I also learned how to create a presentation and present it in front of the class. This project was a great learning experience for me and I learned a lot about software testing and quality assurance. I was very glad when our team was able to achieve the first position in the class."
-              ghLink="https://github.com/RooohulAmin-dev/Software_Testing_and_Quality_Assurance_Presentation"
+              ghLink="https://github.com/RoohulAmin-dev/Software_Testing_and_Quality_Assurance_Presentation"
               demoLink="https://roohulamin-dev.github.io/Software_Testing_and_Quality_Assurance_Presentation/"       
             />
           </Col>
