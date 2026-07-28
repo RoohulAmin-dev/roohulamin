@@ -54,17 +54,21 @@ Vercel Automated Edge Network
 
 ## 🚀 Local Installation & Configuration
 
-
 If you want to run this application locally on your machine or configure your own text properties, execute these terminal commands:
+
+> [!WARNING]  
+> **Crucial Step Before Downloading:** Do not download the ZIP file or clone the project directly from this page if you plan to customize it. If you directly clone this URL, your local machine will still try to push changes to the owner's master account, resulting in permission errors. You must fork it first!
+
+* **Step 1:** Go to the [Portfolio Repository](https://github.com/RoohulAmin-dev/roohulamin) and click the **Fork** icon in the top right to create a copy under your own GitHub account.
+* **Step 2:** Open your newly created fork page, click the green **Code** button, and copy your personal repository link.
 
 ### 1. Clone & Setup Dependencies
 ```bash
-# Clone the repository
-git clone https://github.com\
-
+# Clone YOUR personal fork (Replace with your actual GitHub username)
+git clone https://github.com
 
 # Navigate into the project folder
-cd YOUR_REPO_NAME
+cd roohulamin
 
 # Install essential project modules
 npm install
@@ -85,8 +89,9 @@ Open [http://localhost:3000](http://localhost:3000) inside your web browser to v
 
 ## 🤝 Contributing & Open Source
 
-This repository is completely open-source! If you find bugs, want to optimize performance, or adapt this layout for your own development workspace, feel free to dive in.
+📢 **Open-Source Announcement:** This repository is 100% open-source! Anyone is fully free to use, completely customize, adapt, and publish this portfolio with absolutely **no limits and no restrictions**. If you run into any bugs, want to optimize the layout, or need any kind of technical help setting it up for your workspace, please reach out—I will be incredibly happy to help you!
 
+If you want to contribute back to the main layout:
 1. **Fork** the Repository.
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
 3. **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`).
