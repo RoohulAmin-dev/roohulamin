@@ -1,44 +1,67 @@
 # 🌟 Premium Black & Gold Developer Portfolio
 
-[![Deployed with Vercel](https://shields.io)](https://roohulamin.vercel.app)
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![Language: React](https://shields.io)](https://react.dev)
+[![Deployed with Vercel](Images/readme-img.png)](https://roohulamin.vercel.app)
+
+---
+
 
 Welcome to my personal portfolio repository! Built using **React.js**, styled via custom structured CSS, and optimized for high-performance deployment on Vercel. 
 
 This project features a high-end, premium **Black, Charcoal, and Gold** aesthetic designed to display software engineering capabilities, projects, and technical proficiencies in a highly professional wrapper.
 
-▶️ **[View Live Demo](https://YOUR_SUBDOMAIN.vercel.app)** *(Replace with your live Vercel link)*
+▶️ **[View Live Demo](https://roohulamin.vercel.app)** 
+</br> 
+*(Click on above link to visit the live preview)*
 
 ---
 
 ## ✨ Features
 
-- **Premium UI Theme:** A custom-engineered, matte-black aesthetic accented with high-vibrancy, YouTube-thumbnail-style golden highlights.
-- **Visual Hierarchy:** Distinct readability typography scale transitioning from stark white headers to soft-silver paragraphs.
-- **Dynamic Background:** Interactive canvas tracking elements powered by lightweight particle animations.
-- **Fully Responsive:** Gracefully scales across high-resolution desktop configurations down to compact smartphone monitors.
-- **Performance Optimized:** Fast server responses, lazy-loaded components, and automated CI/CD deployments through Vercel.
+- **Premium UI Theme:**
+</br>
+ A custom-engineered, matte-black aesthetic accented with high-vibrancy, YouTube-thumbnail-style golden highlights.
+- **Visual Hierarchy:**
+<br>
+ Distinct readability typography scale transitioning from stark white headers to soft-silver paragraphs.
+- **Dynamic Background:**
+<br> 
+Interactive canvas tracking elements powered by lightweight particle animations.
+- **Fully Responsive:**
+<br>
+ Gracefully scales across high-resolution desktop configurations down to compact smartphone monitors.
+- **Performance Optimized:** 
+<br>
+Fast server responses, lazy-loaded components, and automated CI/CD deployments through Vercel.
 
 ---
 
 ## 🛠️ Tech Stack & Architecture
 
-- **Frontend Core:** React.js / JavaScript (ES6+)
-- **Styling Paradigm:** Global modular CSS cascading logic + responsive media wrappers
-- **Interactions:** React Particle Canvas / Typewriter Effects
-- **Hosting Pipeline:** Vercel Automated Edge Network
+- **Frontend Core:**
+<br>
+ React.js / JavaScript (ES6+)
+- **Styling Paradigm:** 
+<br>
+Global modular CSS cascading logic + responsive media wrappers
+- **Interactions:** React 
+<br>
+Particle Canvas / Typewriter Effects
+- **Hosting Pipeline:** 
+<br>
+Vercel Automated Edge Network
 
 ---
 
 ## 🚀 Local Installation & Configuration
+
 
 If you want to run this application locally on your machine or configure your own text properties, execute these terminal commands:
 
 ### 1. Clone & Setup Dependencies
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone https://github.com\
+
 
 # Navigate into the project folder
 cd YOUR_REPO_NAME
