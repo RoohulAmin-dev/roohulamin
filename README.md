@@ -1,6 +1,6 @@
 # 🌟 Premium Black & Gold Developer Portfolio
 
-[![Deployed with Vercel](https://shields.io)](https://vercel.com)
+[![Deployed with Vercel](https://shields.io)](https://roohulamin.vercel.app)
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Language: React](https://shields.io)](https://react.dev)
 
