@@ -14,7 +14,7 @@ function AboutCard() {
             I’m currently pursuing my degree at <span className="purple">Northern University Nowshera</span>, where I’ve developed a strong foundation in problem-solving, teamwork, and software development. I also enjoy turning ideas into working projects and learning through hands-on experimentation.
             <br />
             <br />
-            Beyond coding, I am motivated by curiosity, innovation, and creating value through technology. My interests include:
+            Beyond coding, I'm motivated by curiosity, innovation, and creating value through technology. My interests include:
           </p>
 
           <ul>
