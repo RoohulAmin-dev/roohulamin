@@ -21,18 +21,21 @@ function Home() {
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "}
+                Hello!{" "}
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>
               </h1>
 
               <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> ROOHUL AMIN</strong>
+                I’m <strong className="main-name">ROOHUL AMIN</strong>
               </h1>
 
-              <div style={{ padding: 50, textAlign: "left" }}>
+              <p style={{ paddingBottom: 20, maxWidth: 600, color: "#c7c7c7" }}>
+                I’m a Computer Science student building practical software solutions with AI, full-stack development, and modern web technologies.
+              </p>
+
+              <div style={{ paddingTop: 20, paddingBottom: 30, textAlign: "left" }}>
                 <Type />
               </div>
             </Col>

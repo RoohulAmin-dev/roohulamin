@@ -13,38 +13,24 @@ function Home2() {
               A SHORT <span className="yellow"> INTRODUCTION </span> ABOUT ME
             </h1>
             <p className="home-about-body">
-              I’m a AI Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m a Computer Science student who enjoys turning ideas into practical software solutions. My focus is on building useful web applications, exploring AI-powered systems, and creating projects that solve real-world problems.
               <br />
               <br />
-              I’m proficient in
+              I work with
               <i>
                 <b className="purple">
-                  {" "}
-                  Machine Learning, Deep Learning projects, Python, SQL Server, Frontend Development, and Java{" "}
+                  {" "}React, Next.js, Python, Java, SQL, and modern AI tools{" "}
                 </b>
               </i>
-              — I enjoy to create real-life useful projects using these technologies.
+              , and I’m especially interested in combining full-stack development with LLMs, agents, and intelligent user experiences.
               <br />
               <br />
-              My key areas of interest include developing
-              <i>
-                <b className="purple">
-                  {" "}
-                  Making my projects full of value, explore agentic, generative AI, learn full stack development to focus on creating impactful solutions{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge uers and impactful solutions.
+              My goal is to keep building projects that are not only technically strong, but also meaningful, scalable, and useful for people.
               <br />
               <br />
-              Whenever possible, I love building projects of
-              <b className="purple"> basic Machine Learning, Deep Learning </b> and modern agentic concepts{" "}
-              <i>
-                <b className="purple">Machine Learning</b> and{" "}
-                <b className="purple">Deep Learning</b>.
-              </i>
+              I’m currently exploring
+              <b className="purple"> AI agents, generative AI, and full-stack product development</b>
+              while continuing to strengthen my foundation in software engineering.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

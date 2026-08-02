@@ -8,35 +8,29 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Roohul Amin, </span>{" "}
-            learning and buiding <span className="purple">Machine Learning and Agentic AI projects</span>.
-            <br />
-            I’m currently studying @ Northern University in {" "}
-            <span className="purple"> Computer Science Department</span> in{" "}
-            <span className="purple"> Nowshera, Khyber Pakhtunkhwa, Pakistan</span>.
-            <br />I completed my High school degree in {" "}
-            <span className="purple"> Nowshera </span> from{" "}
-            <span className="purple"> HCI Canadian based college and school</span>.
+            I’m <span className="purple">Roohul Amin</span>, a Computer Science student who enjoys building practical software solutions and exploring the world of AI. My interest lies in combining full-stack development with modern AI technologies to create products that are both useful and meaningful.
             <br />
             <br />
-            Besides learning and building real-life useful projects, I also love to explore technology, lead my classmates for innovation, travel and explore new places. I am a very
-            creative and inspired:
+            I’m currently pursuing my degree at <span className="purple">Northern University Nowshera</span>, where I’ve developed a strong foundation in problem-solving, teamwork, and software development. I also enjoy turning ideas into working projects and learning through hands-on experimentation.
+            <br />
+            <br />
+            Beyond coding, I’m motivated by curiosity, innovation, and creating value through technology. My interests include:
           </p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Exploring new technologies and building real-life useful projects 💻
+              <ImPointRight /> Building AI-powered and full-stack projects 💻
             </li>
             <li className="about-activity">
-              <ImPointRight /> Leading Classmates for Innovation 🎯
+              <ImPointRight /> Exploring LLMs, agents, and intelligent systems 🤖
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling and Exploring New Places 🌍
+              <ImPointRight /> Learning through practical problem-solving and collaboration 🌍
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Creativity is the name of deep thinking and consistent action"{" "}
+            “Creativity is the name of deep thinking and consistent action.”
           </p>
           <footer className="blockquote-footer">Roohul Amin</footer>
         </blockquote>
